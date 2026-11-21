@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Budget Router"
+  short_description: "Agent stacks overspend by routing every step to a frontier model without measuring task co"
+  default_prompt: "Use @token-budget-router to analyze the supplied artifact and return a validated result."

@@ -1,0 +1,7 @@
+{
+  "complexity": 0.72,
+  "risk": "medium",
+  "latency_ms": 5000,
+  "privacy": "internal",
+  "token_budget": 6000
+}
