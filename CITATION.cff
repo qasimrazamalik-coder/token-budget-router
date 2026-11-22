@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Token Budget Router"
+message: "If this skill supports your work, cite the repository."
+type: software
+authors:
+  - family-names: "Malik"
+    given-names: "Qasim Raza"
+year: 2026
+license: MIT
+repository-code: "https://github.com/qasimrazamalik-coder/token-budget-router"
+url: "https://github.com/qasimrazamalik-coder/token-budget-router"

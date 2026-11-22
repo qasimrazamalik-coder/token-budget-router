@@ -1,0 +1,18 @@
+# Token Budget Router
+
+> Route AI tasks across model classes and context strategies using explicit quality, latency, privacy and token-cost constraints. Use when an agent system needs a deterministic model-selection plan instead of always choosing the largest model.
+
+Canonical repository: https://github.com/qasimrazamalik-coder/token-budget-router
+License: MIT
+Primary instructions: skill/SKILL.md
+Installation: docs/INSTALLATION.md
+Safety guardrails: docs/GUARDRAILS.md
+Security policy: SECURITY.md
+Example input: examples/input.json
+
+## Supported runtimes
+Claude Code, Codex, ChatGPT, Gemini, Grok, MCP-compatible agents, and custom agent runtimes.
+
+## Usage
+Run: python skill/scripts/run.py examples/input.json
+Test: pytest -q
